@@ -1,2 +1,2 @@
 # Luna-Linux
-LINUX
+Просто linux c KDE и Ubuntu
